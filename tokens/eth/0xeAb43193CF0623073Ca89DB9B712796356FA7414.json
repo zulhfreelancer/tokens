@@ -6,10 +6,10 @@
   "ens_address": "",
   "website": "https://www.hellogold.org/",
   "logo": {
-    "src": "",
-    "width": "",
-    "height": "",
-    "ipfs_hash": ""
+    "src": "https://raw.githubusercontent.com/myHelloGold/icons/master/GOLDX.png",
+    "width": "1000",
+    "height": "1000",
+    "ipfs_hash": "QmSTP2gNS4iTn2v36ftSv3hCtgjkNYcUEnuD3X6yKGEgbc"
   },
   "support": {
     "email": "goldx@hellogold.org",
