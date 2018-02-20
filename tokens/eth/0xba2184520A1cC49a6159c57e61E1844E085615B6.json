@@ -2,9 +2,9 @@
   "symbol": "HGT",
   "address": "0xba2184520A1cC49a6159c57e61E1844E085615B6",
   "decimals": "8",
-  "name": "HGT",
+  "name": "HelloGoldToken",
   "ens_address": "",
-  "website": "",
+  "website": "https://www.hellogold.org/",
   "logo": {
     "src": "",
     "width": "",
@@ -12,22 +12,22 @@
     "ipfs_hash": ""
   },
   "support": {
-    "email": "",
-    "url": ""
+    "email": "foundation@hellogold.org",
+    "url": "https://www.hellogold.org/contact.html"
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/hellogold",
     "chat": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/HelloGoldFoundation/",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/myHelloGold",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
-    "slack": "",
-    "telegram": "",
-    "twitter": "",
-    "youtube": ""
+    "reddit": "https://www.reddit.com/r/HelloGold/",
+    "slack": "https://hellogold-foundation-slack.herokuapp.com/",
+    "telegram": "https://t.me/HelloGoldFoundation",
+    "twitter": "https://twitter.com/FoundationHG?lang=en",
+    "youtube": "https://www.youtube.com/channel/UC4sxWpIShIE-wuN5V7UAQKA"
   }
 }
